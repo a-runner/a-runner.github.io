@@ -84,10 +84,10 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 * Chinese National Standard (DCM):  proposals submitted ( as first author,  adopted)
 * International Standards (VCM, FCM):  proposals submitted ( as first author,  collaborative work adopted by FCM)
 
-----
+<!-- ---- -->
 
 ## Data Coding for Machine (DCM)
----
+<!-- --- -->
 
 
 ### Adopted Proposals
