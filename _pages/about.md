@@ -89,7 +89,19 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 ## Data Coding for Machine (DCM)
 ---
 
+
 ### Adopted Proposals
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+DCM
+[待定]
+
+**Jiawang Liu**, HualongYugoslav, Lu Yu
+
+</div>
+</div>
+
 
 ### Other Proposals
 
@@ -111,12 +123,13 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Ph.D. in Information and Communication Engineering, College of Information Science and Electronic Engineering, Zhejiang University.
+- *2018.09 - 2022.06*, B.Eng. in Information Engineering, Jilin University.
 
-# 💬 Invited Talks
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
