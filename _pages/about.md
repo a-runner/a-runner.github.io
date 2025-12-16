@@ -44,7 +44,7 @@ I am Jiawang Liu, a Ph.D. candidate at the College of Information Science and El
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2025</div><img src='images/ISCAS_2025_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Assessing the Reusability of Cloud-Received Feature Streams on Advanced Networks](https://ieeexplore.ieee.org/document/11044016/)
+[Assessing the Reusability of Cloud-Received Feature Streams on Advanced Networks](https://ieeexplore.ieee.org/document/11044016/) [poster]
 
 **Jiawang Liu**, Ao Liu, Hualong Yu, Heming Sun,Lu Yu
 
@@ -56,7 +56,7 @@ I am Jiawang Liu, a Ph.D. candidate at the College of Information Science and El
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2025</div><img src='images/ISCAS_2025_v1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning-based Image Coding for Machine Intelligence with Variable-Rate](https://ieeexplore.ieee.org/document/11043320/)
+[Learning-based Image Coding for Machine Intelligence with Variable-Rate](https://ieeexplore.ieee.org/document/11043320/) [oral]
 
 Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 
@@ -68,12 +68,35 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/VCIP_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evaluation on the generalization of coded features across neural networks of different tasks](https://ieeexplore.ieee.org/document/10402702/)
+[Evaluation on the generalization of coded features across neural networks of different tasks](https://ieeexplore.ieee.org/document/10402702/) [oral]
 
 **Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
 
 </div>
 </div>
+
+
+
+# 📄 Proposals
+
+## Summary
+
+* Chinese National Standard (DCM):  proposals submitted ( as first author,  adopted)
+* International Standards (VCM, FCM):  proposals submitted ( as first author,  collaborative work adopted by FCM)
+
+## Data Coding for Machine (DCM)
+
+### Adopted Proposals
+
+### Other Proposals
+
+
+## Mpeg-Video/Feature Coding for Machine (VCM/FCM)
+
+### Adopted Proposals
+
+### Other Proposals
+
 
 
 
