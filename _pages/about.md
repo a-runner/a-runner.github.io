@@ -170,7 +170,7 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 
 
 
-## <img src="images/mpeg-logo.png" width="20"> MPEG-Video/Feature Coding for Machine (VCM/FCM)
+## <img src="images/mpeg-logo.png" width="60"> MPEG-Video/Feature Coding for Machine (VCM/FCM)
 ---
 
 ### ✅ Adopted Proposals
@@ -199,6 +199,20 @@ Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVC
 
 <!-- </div> -->
 
+# Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/system_deploy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Distributed System Deployment of Machine-Intelligence-Oriented Codecs
+
+**Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
+
+
+[Project Page]()
+
+</div>
+</div>
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
