@@ -87,8 +87,8 @@ IEEE VCIP, 2023
 
 ## Summary
 
-* Chinese National Standard (DCM): 13 proposals submitted (12 as first author, 4 adopted, 1 collaborative work adopted)
-* International Standards (VCM, FCM): 15 proposals submitted (6 as first author, 1 collaborative work adopted by FCM)
+* Chinese National Standard (DCM): 13 proposals submitted (<span style="color:red;">12</span> as first author, <span style="color:red;">4</span> adopted, <span style="color:red;">1</span> collaborative work adopted)
+* International Standards (VCM, FCM): 15 proposals submitted (<span style="color:red;">6</span> as first author, <span style="color:red;">1</span> collaborative work adopted by FCM)
 
 <!-- ---- -->
 
@@ -130,6 +130,15 @@ IEEE VCIP, 2023
 13.  项目十三
 14.  项目十四
 15.  项目十五
+
+</div>
+
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid red; color: red;">
+
+1. 测试项 1
+2. 测试项 2
+...
+15. 测试项 15
 
 </div>
 
