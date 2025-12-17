@@ -101,9 +101,11 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/Infrared_visualization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-刘佳旺、于化龙、虞露，“DCM-I-0170-EE3：DCM在二维可见光红外视频数据集上的压缩性能探究”，DCM-I-0170, DCM第19次会议，2025年7月。
+EE3：DCM在二维可见光红外视频数据集上的压缩性能探究
 
-**Jiawang Liu**, HualongYu, Lu Yu
+**刘佳旺**、于化龙、虞露（浙江大学）、林晓东（芯福科技）
+
+DCM-I-0170, DCM第19次会议，2025年7月。
 
 [Project Page]()
 </div>
@@ -113,9 +115,26 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/overall.drawio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-刘佳旺、于化龙、虞露, “DCM-I-162-DCM定点化算法改进及相应标准文本修改建议”, DCM-I-162, DCM第18次会议，2025年4月。
+DCM定点化算法改进及相应标准文本修改建议
 
-**Jiawang Liu**, HualongYu, Lu Yu
+**刘佳旺**、于化龙、虞露
+
+DCM-I-162, DCM第18次会议，2025年4月
+
+</div>
+</div>
+
+
+<div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">DCM 2023</div><img src='images/decoupled_context.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+解析解码分离的高效图像编码方法
+
+何淇淇、**刘佳旺**、于化龙、虞露
+
+DCM-I-0116， DCM第13次会议，2023年11月
+
+**Decoupled Context Model** has been adopted.
 
 </div>
 </div>
@@ -124,11 +143,13 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 <div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">DCM 2023</div><img src='images/VCIP_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-刘佳旺、于化龙、虞露, “DTM-V CE2：验证解码特征的通用性”,  DCM-I-0077,  DCM第10次会议，2023年2月。
+DTM-V CE2：验证解码特征的通用性 
 
-**Jiawang Liu**, HualongYu, Lu Yu
+**刘佳旺**、于化龙、虞露
 
-Relevant work has been accepted by <a href="#VCIP_2023">VCIP 2023</a>.
+DCM-I-0077,  DCM第10次会议，2023年2月
+
+**Feature Adapter** has been adopted. \| Relevant work has been accepted by <a href="#VCIP_2023">VCIP 2023</a>.
 
 </div>
 </div>
@@ -140,34 +161,10 @@ Relevant work has been accepted by <a href="#VCIP_2023">VCIP 2023</a>.
 
 <div class="scroll-list-container">
 
-1.  项目一
-
-2.  项目二
-
-3.  项目三
-
-4.  项目四
-
-5.  项目五
-
-6.  项目六
-
-7.  项目七
-
-8.  项目八
-
-9.  项目九
-
-10.  项目十
-
-11.  项目十一（开始滚动）
-
-12.  项目十二
-
-13.  项目十三
-
-14.  项目十四
-15.  项目十五
+* **刘佳旺**、于化龙、虞露, “DTM-V CE2补充实验：验证解码特征在实例分割任务上的泛化性”，DCM-I-0086， DCM第11次会议，2023年5月。
+* **刘佳旺**、于化龙、虞露, “DCM-I-147-DTM特征在基于Trasnformer的目标检测网络上的泛化性验证”, DCM-I-147, DCM第16次会议，2024年9月。
+* **刘佳旺**、于化龙、虞露, “DCM-I-163-DCM参考软件在开发板上的部署展示”, DCM-I-163, DCM第18次会议，2025年4月。
+* **刘佳旺**，“DCM-O-0089-TSUCA 024.2《信息技术面向机器智能图像编码第2版：草案》团标修订版草案”，DCM-O-0089, DCM第18次会议，2025年4月。
 
 </div>
 
@@ -177,14 +174,14 @@ Relevant work has been accepted by <a href="#VCIP_2023">VCIP 2023</a>.
 ---
 
 ### Adopted Proposals
-<div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">FCM 2023</div><img src='images/symmetrioc_flipping.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">FCM 2024</div><img src='images/symmetrioc_flipping.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVCM] Feature Coding scheme for Video Coding for Machine from Zhejiang University", ISO/IEC JTC 1/SC 29/WG2  m65221, Hannover, October, 2023.
 
 **Jiawang Liu**, Ao Liu, Chao Wang, Hualong Yu, Lu Yu
 
-**Symmetric Channel Flipping** has been adopted by FCM (FCTM V2).
+**Symmetric Feature Channel Flipping** has been adopted by FCM (FCTM V2) in 2024.
 
 (I originally proposed the technique, while the relevant CE was done by my classmates.)
 
@@ -193,7 +190,14 @@ Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVC
 
 
 ### Other Selected Proposals
+<div class="scroll-list-container">
 
+* **Jiawang Liu**, Hualong Yu, Lu Yu (ZJU), "[FCM] Suggestions on keeping alignment between FCM requirements and FCM CTTC", ISO/IEC JTC 1/SC 29/WG4  m66509, OnLine, January 2024.
+* **Jiawang Liu**, Ao Liu, Kejia, Hualong Yu, Lu Yu (Zhejiang University), "[FCVCM] Analysis on Feature Generalization for Multi-tasks", ISO/IEC JTC 1/SC 29/WG2  m65225, Hannover, October, 2023.
+* **Jiawang Liu**, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVCM] Feature Coding scheme for Video Coding for Machine from Zhejiang University", ISO/IEC JTC 1/SC 29/WG2  m65221, Hannover, October, 2023.
+* **Jiawang Liu**, Ao Liu, [Hualong Yu](mailto:hlyu@zju.edu.cn), Lu Yu, "[VCM] Dealing with non-monotonic distributed R-D points",  ISO/IEC JTC 1/SC 29/WG4 m64389, Geneva, July 2023.
+
+</div>
 
 
 
