@@ -170,7 +170,7 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 
 
 
-## <img src="images/mpeg-logo.png" width="60"> MPEG-Video/Feature Coding for Machine (VCM/FCM)
+## <img src="images/mpeg.drawio.png" width="60"> MPEG-Video/Feature Coding for Machine (VCM/FCM)
 ---
 
 ### ✅ Adopted Proposals
