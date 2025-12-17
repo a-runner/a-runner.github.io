@@ -69,14 +69,14 @@ IEEE ISCAS, 2025
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/VCIP_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id="VCIP_2023"><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/VCIP_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evaluation on the generalization of coded features across neural networks of different tasks](https://ieeexplore.ieee.org/document/10402702/) [**oral**]
 
 **Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
 
-IEEE VCIP, 2023
+IEEE VCIP, 2023 | Relevant work has been adopted by <a href="#VCIP_2023_DCM">DCM</a>.
 
 </div>
 </div>
@@ -87,7 +87,7 @@ IEEE VCIP, 2023
 
 ## Summary
 
-* Chinese National Standard (DCM): 13 proposals submitted (<span style="color:red;">12</span> as first author, <span style="color:red;">4</span> adopted, <span style="color:red;">1</span> collaborative work adopted)
+* Chinese National Standard (DCM): 13 proposals submitted (<span style="color:red;">12</span> as first author, <span style="color:red;">3</span> adopted, <span style="color:red;">1</span> collaborative work adopted)
 * International Standards (VCM, FCM): 15 proposals submitted (<span style="color:red;">6</span> as first author, <span style="color:red;">1</span> collaborative work adopted by FCM)
 
 <!-- ---- -->
@@ -106,9 +106,34 @@ IEEE VCIP, 2023
 **Jiawang Liu**, HualongYu, Lu Yu
 
 [Project Page]()
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/overall.drawio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+刘佳旺、于化龙、虞露, “DCM-I-162-DCM定点化算法改进及相应标准文本修改建议”, DCM-I-162, DCM第18次会议，2025年4月。
+
+**Jiawang Liu**, HualongYu, Lu Yu
 
 </div>
 </div>
+
+
+<div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">DCM 2023</div><img src='images/.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+刘佳旺、于化龙、虞露, “DTM-V CE2：验证解码特征的通用性”,  DCM-I-0077,  DCM第10次会议，2023年2月。
+
+**Jiawang Liu**, HualongYu, Lu Yu
+
+Relevant work has been accepted by <a href="#VCIP_2023">VCIP 2023</a>.
+
+</div>
+</div>
+
+
 
 
 ### Other Selected Proposals
