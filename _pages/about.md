@@ -85,18 +85,18 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 
 # 📄 Proposals
 
-## Summary
+## 📋 Summary
 
 * Chinese National Standard (DCM): 13 proposals submitted (<span style="color:red;">12</span> as first author, <span style="color:red;">3</span> adopted, <span style="color:red;">1</span> collaborative work adopted)
 * International Standards (VCM, FCM): 15 proposals submitted (<span style="color:red;">6</span> as first author, <span style="color:red;">1</span> adopted by FCM)
 
 <!-- ---- -->
 
-## Data Coding for Machine (DCM)
+## <img src="images/esi.jpg" width="20"> Data Coding for Machine (DCM)
 ---
 
 
-### Adopted Proposals
+### ✅ Adopted Proposals
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/Infrared_visualization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -157,7 +157,7 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 
 
 
-### Other Selected Proposals
+### 📝 Other Selected Proposals
 
 <!-- <div class="scroll-list-container"> -->
 
@@ -170,10 +170,10 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 
 
 
-## MPEG-Video/Feature Coding for Machine (VCM/FCM)
+## <img src="images/mpeg-logo.png" width="20"> MPEG-Video/Feature Coding for Machine (VCM/FCM)
 ---
 
-### Adopted Proposals
+### ✅ Adopted Proposals
 <div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">FCM 2024</div><img src='images/symmetrioc_flipping.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -189,7 +189,7 @@ Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVC
 </div>
 
 
-### Other Selected Proposals
+### 📝 Other Selected Proposals
 <!-- <div class="scroll-list-container"> -->
 
 * **Jiawang Liu**, Hualong Yu, Lu Yu (ZJU), "[FCM] Suggestions on keeping alignment between FCM requirements and FCM CTTC", ISO/IEC JTC 1/SC 29/WG4  m66509, OnLine, January 2024.
