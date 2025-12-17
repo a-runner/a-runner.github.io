@@ -177,7 +177,7 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 <div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">FCM 2024</div><img src='images/symmetrioc_flipping.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVCM] Feature Coding scheme for Video Coding for Machine from Zhejiang University", ISO/IEC JTC 1/SC 29/WG2  m65221, Hannover, October, 2023.
+<span style="color: #007bff;">Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVCM] Feature Coding scheme for Video Coding for Machine from Zhejiang University", ISO/IEC JTC 1/SC 29/WG2  m65221, Hannover, October, 2023.</span>
 
 **Jiawang Liu**, Ao Liu, Chao Wang, Hualong Yu, Lu Yu
 
@@ -204,7 +204,7 @@ Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/system_deploy2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Distributed System Deployment of Machine-Intelligence-Oriented Codecs
+<span style="color: #007bff;">Distributed System Deployment of Machine-Intelligence-Oriented Codecs</span>
 
 **Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
 
