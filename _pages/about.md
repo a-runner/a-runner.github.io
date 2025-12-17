@@ -48,6 +48,8 @@ I am Jiawang Liu, a Ph.D. candidate at the College of Information Science and El
 
 **Jiawang Liu**, Ao Liu, Hualong Yu, Heming Sun,Lu Yu
 
+IEEE ISCAS, 2025
+
 </div>
 </div>
 
@@ -60,6 +62,8 @@ I am Jiawang Liu, a Ph.D. candidate at the College of Information Science and El
 
 Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 
+IEEE ISCAS, 2025
+
 </div>
 </div>
 
@@ -71,6 +75,8 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 [Evaluation on the generalization of coded features across neural networks of different tasks](https://ieeexplore.ieee.org/document/10402702/) [oral]
 
 **Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
+
+IEEE VCIP, 2023
 
 </div>
 </div>
@@ -107,7 +113,7 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 
 ### Other Selected Proposals
 
-div class="scroll-list-container">
+<div class="scroll-list-container">
 
 1.  项目一
 2.  项目二
