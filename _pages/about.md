@@ -201,7 +201,7 @@ Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVC
 
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/system_deploy.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/system_deploy2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Distributed System Deployment of Machine-Intelligence-Oriented Codecs
