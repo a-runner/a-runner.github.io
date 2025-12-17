@@ -92,12 +92,13 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 
 ### Adopted Proposals
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/Infrared_visualization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 刘佳旺、于化龙、虞露，“DCM-I-0170-EE3：DCM在二维可见光红外视频数据集上的压缩性能探究”，DCM-I-0170, DCM第19次会议，2025年7月。
 
 **Jiawang Liu**, HualongYu, Lu Yu
+
 [Project Page]()
 
 </div>
@@ -106,7 +107,7 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 
 ### Other Selected Proposals
 
-<div style="height: 260px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+div class="scroll-list-container">
 
 1.  项目一
 2.  项目二
@@ -117,14 +118,15 @@ Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 7.  项目七
 8.  项目八
 9.  项目九
-10. 项目十
-11. 项目十一（开始滚动）
-12. 项目十二
-13. 项目十三
-14. 项目十四
-15. 项目十五
+10.  项目十
+11.  项目十一（开始滚动）
+12.  项目十二
+13.  项目十三
+14.  项目十四
+15.  项目十五
 
 </div>
+
 
 ## Mpeg-Video/Feature Coding for Machine (VCM/FCM)
 ---

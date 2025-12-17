@@ -107,3 +107,23 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+/* 定义滚动容器 */
+.scroll-list-container {
+    max-height: 300px; /* 约10项的高度 */
+    overflow-y: auto;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 10px 20px;
+    background-color: #f6f8fa;
+}
+
+/* 优化滚动条样式（可选，仅限 Webkit 浏览器如 Chrome/Safari） */
+.scroll-list-container::-webkit-scrollbar {
+    width: 6px;
+}
+.scroll-list-container::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 10px;
+}
