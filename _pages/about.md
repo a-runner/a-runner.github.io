@@ -93,7 +93,7 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 <!-- ---- -->
 
 ## Data Coding for Machine (DCM)
-<!-- --- -->
+---
 
 
 ### Adopted Proposals
@@ -105,7 +105,7 @@ EE3：DCM在二维可见光红外视频数据集上的压缩性能探究
 
 **刘佳旺**、于化龙、虞露（浙江大学）、林晓东（芯福科技）
 
-DCM-I-0170, DCM第19次会议，2025年7月。
+DCM-I-0170, DCM第19次会议，2025年7月
 
 [Project Page]()
 </div>
@@ -159,14 +159,14 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 
 ### Other Selected Proposals
 
-<div class="scroll-list-container">
+<!-- <div class="scroll-list-container"> -->
 
 * **刘佳旺**、于化龙、虞露, “DTM-V CE2补充实验：验证解码特征在实例分割任务上的泛化性”，DCM-I-0086， DCM第11次会议，2023年5月。
 * **刘佳旺**、于化龙、虞露, “DCM-I-147-DTM特征在基于Trasnformer的目标检测网络上的泛化性验证”, DCM-I-147, DCM第16次会议，2024年9月。
 * **刘佳旺**、于化龙、虞露, “DCM-I-163-DCM参考软件在开发板上的部署展示”, DCM-I-163, DCM第18次会议，2025年4月。
 * **刘佳旺**，“DCM-O-0089-TSUCA 024.2《信息技术面向机器智能图像编码第2版：草案》团标修订版草案”，DCM-O-0089, DCM第18次会议，2025年4月。
 
-</div>
+<!-- </div> -->
 
 
 
@@ -190,14 +190,14 @@ Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVC
 
 
 ### Other Selected Proposals
-<div class="scroll-list-container">
+<!-- <div class="scroll-list-container"> -->
 
 * **Jiawang Liu**, Hualong Yu, Lu Yu (ZJU), "[FCM] Suggestions on keeping alignment between FCM requirements and FCM CTTC", ISO/IEC JTC 1/SC 29/WG4  m66509, OnLine, January 2024.
 * **Jiawang Liu**, Ao Liu, Kejia, Hualong Yu, Lu Yu (Zhejiang University), "[FCVCM] Analysis on Feature Generalization for Multi-tasks", ISO/IEC JTC 1/SC 29/WG2  m65225, Hannover, October, 2023.
 * **Jiawang Liu**, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVCM] Feature Coding scheme for Video Coding for Machine from Zhejiang University", ISO/IEC JTC 1/SC 29/WG2  m65221, Hannover, October, 2023.
 * **Jiawang Liu**, Ao Liu, [Hualong Yu](mailto:hlyu@zju.edu.cn), Lu Yu, "[VCM] Dealing with non-monotonic distributed R-D points",  ISO/IEC JTC 1/SC 29/WG4 m64389, Geneva, July 2023.
 
-</div>
+<!-- </div> -->
 
 
 
