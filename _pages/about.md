@@ -107,6 +107,8 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 
 DCM-I-0170, DCM第19次会议，2025年7月
 
+**Pre- and Post-processing Modules Adapted for Thermal Images** have been adopted.
+
 [Project Page]()
 </div>
 </div>
@@ -120,6 +122,8 @@ DCM-I-0170, DCM第19次会议，2025年7月
 **刘佳旺**、于化龙、虞露
 
 DCM-I-162, DCM第18次会议，2025年4月
+
+**Fixed-point Algorithm** has been adopted.
 
 </div>
 </div>
