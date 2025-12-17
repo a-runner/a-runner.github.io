@@ -222,7 +222,7 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.09 - now*, Ph.D. in Information and Communication Engineering, College of Information Science and Electronic Engineering, <img src="images/zju_logo.png" width="60"> Zhejiang University.
+- *2022.09 - now*, Ph.D. in Information and Communication Engineering, College of Information Science and Electronic Engineering, <img src="images/zju_logo.png" width="54"> Zhejiang University.
 - *2018.09 - 2022.06*, B.Eng. in Information Engineering, <img src="images/jlu_logo.jpg" width="30"> Jilin University.
 
 
