@@ -58,7 +58,7 @@ IEEE ISCAS, 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2025</div><img src='images/ISCAS_2025_v1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning-based Image Coding for Machine Intelligence with Variable-Rate](https://ieeexplore.ieee.org/document/11043320/) [oral]
+[Learning-based Image Coding for Machine Intelligence with Variable-Rate](https://ieeexplore.ieee.org/document/11043320/) [**oral**]
 
 Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 
@@ -72,7 +72,7 @@ IEEE ISCAS, 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/VCIP_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evaluation on the generalization of coded features across neural networks of different tasks](https://ieeexplore.ieee.org/document/10402702/) [oral]
+[Evaluation on the generalization of coded features across neural networks of different tasks](https://ieeexplore.ieee.org/document/10402702/) [**oral**]
 
 **Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
 
@@ -116,18 +116,31 @@ IEEE VCIP, 2023
 <div class="scroll-list-container">
 
 1.  项目一
+
 2.  项目二
+
 3.  项目三
+
 4.  项目四
+
 5.  项目五
+
 6.  项目六
+
 7.  项目七
+
 8.  项目八
+
 9.  项目九
+
 10.  项目十
+
 11.  项目十一（开始滚动）
+
 12.  项目十二
+
 13.  项目十三
+
 14.  项目十四
 15.  项目十五
 
