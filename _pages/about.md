@@ -206,7 +206,7 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 
 <span style="color: #224B8D;">Distributed System Deployment of Machine-Intelligence-Oriented Codecs</span>
 
-**Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
+**Jiawang Liu**, Ao Liu, Hualong Yu, Lu Yu
 
 
 [Project Page]()
