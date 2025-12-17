@@ -101,7 +101,7 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/Infrared_visualization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-EE3：DCM在二维可见光红外视频数据集上的压缩性能探究
+<span style="color: #4183C4;">EE3：DCM在二维可见光红外视频数据集上的压缩性能探究</span>
 
 **刘佳旺**、于化龙、虞露（浙江大学）、林晓东（芯福科技）
 
@@ -115,7 +115,7 @@ DCM-I-0170, DCM第19次会议，2025年7月
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/overall.drawio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DCM定点化算法改进及相应标准文本修改建议
+<span style="color: #4183C4;">DCM定点化算法改进及相应标准文本修改建议</span>
 
 **刘佳旺**、于化龙、虞露
 
@@ -128,7 +128,7 @@ DCM-I-162, DCM第18次会议，2025年4月
 <div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">DCM 2023</div><img src='images/decoupled_context.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-解析解码分离的高效图像编码方法
+<span style="color: #4183C4;">解析解码分离的高效图像编码方法</span>
 
 何淇淇、**刘佳旺**、于化龙、虞露
 
@@ -143,7 +143,7 @@ DCM-I-0116， DCM第13次会议，2023年11月
 <div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">DCM 2023</div><img src='images/VCIP_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DTM-V CE2：验证解码特征的通用性 
+<span style="color: #4183C4;">DTM-V CE2：验证解码特征的通用性</span>
 
 **刘佳旺**、于化龙、虞露
 
