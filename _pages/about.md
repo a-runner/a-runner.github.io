@@ -76,7 +76,7 @@ IEEE ISCAS, 2025
 
 **Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
 
-IEEE VCIP, 2023 | Relevant work has been adopted by <a href="#VCIP_2023_DCM">DCM</a>.
+IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DCM</a>.
 
 </div>
 </div>
@@ -88,7 +88,7 @@ IEEE VCIP, 2023 | Relevant work has been adopted by <a href="#VCIP_2023_DCM">DCM
 ## Summary
 
 * Chinese National Standard (DCM): 13 proposals submitted (<span style="color:red;">12</span> as first author, <span style="color:red;">3</span> adopted, <span style="color:red;">1</span> collaborative work adopted)
-* International Standards (VCM, FCM): 15 proposals submitted (<span style="color:red;">6</span> as first author, <span style="color:red;">1</span> collaborative work adopted by FCM)
+* International Standards (VCM, FCM): 15 proposals submitted (<span style="color:red;">6</span> as first author, <span style="color:red;">1</span> adopted by FCM)
 
 <!-- ---- -->
 
@@ -121,7 +121,7 @@ IEEE VCIP, 2023 | Relevant work has been adopted by <a href="#VCIP_2023_DCM">DCM
 </div>
 
 
-<div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">DCM 2023</div><img src='images/.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">DCM 2023</div><img src='images/VCIP_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 刘佳旺、于化龙、虞露, “DTM-V CE2：验证解码特征的通用性”,  DCM-I-0077,  DCM第10次会议，2023年2月。
@@ -171,20 +171,26 @@ Relevant work has been accepted by <a href="#VCIP_2023">VCIP 2023</a>.
 
 </div>
 
-<div style="max-height: 300px; overflow-y: auto; border: 1px solid red; color: red;">
-
-1. 测试项 1
-2. 测试项 2
-...
-15. 测试项 15
-
-</div>
 
 
-## Mpeg-Video/Feature Coding for Machine (VCM/FCM)
+## MPEG-Video/Feature Coding for Machine (VCM/FCM)
 ---
 
 ### Adopted Proposals
+<div class='paper-box' id="VCIP_2023_DCM"><div class='paper-box-image'><div><div class="badge">FCM 2023</div><img src='images/symmetrioc_flipping.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Jiawang Liu, Ao Liu, Chao Wang, Hualong Yu, Lu Yu (Zhejiang University)], "[FCVCM] Feature Coding scheme for Video Coding for Machine from Zhejiang University", ISO/IEC JTC 1/SC 29/WG2  m65221, Hannover, October, 2023.
+
+**Jiawang Liu**, Ao Liu, Chao Wang, Hualong Yu, Lu Yu
+
+**Symmetric Channel Flipping** has been adopted by FCM (FCTM V2).
+
+(I originally proposed the technique, while the relevant CE was done by my classmates.)
+
+</div>
+</div>
+
 
 ### Other Selected Proposals
 
