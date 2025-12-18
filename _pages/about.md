@@ -48,6 +48,8 @@ I am Jiawang Liu, a Ph.D. candidate at the College of Information Science and El
 
 **Jiawang Liu**, Ao Liu, Hualong Yu, Heming Sun,Lu Yu
 
+\[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:vcHwV-kWklgJ:scholar.google.com/&output=citation&scisdr=CrxZ1grKEN-bhvVbm5g:ALhkC2QAAAAAaUNdg5i7Gwr22l__AZCJYGMpGK4&scisig=ALhkC2QAAAAAaUNdg_b8U8ojr4rGGYpXQRAv6O8&scisf=4&ct=citation&cd=-1&hl=en)\]
+
 IEEE ISCAS, 2025
 
 </div>
@@ -62,6 +64,8 @@ IEEE ISCAS, 2025
 
 Ao Liu, Hualong Yu, **Jiawang Liu**, Qiqi He, Lu Yu
 
+\[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:7VhhgqmhWpEJ:scholar.google.com/&output=citation&scisdr=CrxZ1grKEN-bhvVbp2o:ALhkC2QAAAAAaUNdv2rK8u5j7lCnG2FD0-7MY4A&scisig=ALhkC2QAAAAAaUNdv6g2lOE1TLJRnmvHA3O6C4U&scisf=4&ct=citation&cd=-1&hl=en)\]
+
 IEEE ISCAS, 2025
 
 </div>
@@ -75,6 +79,8 @@ IEEE ISCAS, 2025
 [Evaluation on the generalization of coded features across neural networks of different tasks](https://ieeexplore.ieee.org/document/10402702/) [**oral**]
 
 **Jiawang Liu**, Ao Liu, Ke Jia, Hualong Yu, Lu Yu
+
+\[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:PpwnhOjDyicJ:scholar.google.com/&output=citation&scisdr=CrxZ1grKEN-bhvVbw3Y:ALhkC2QAAAAAaUNd23acrKVS4GhL2ahKCZaSrXE&scisig=ALhkC2QAAAAAaUNd200Wvw-kiJsFcr4FPAwWZkc&scisf=4&ct=citation&cd=-1&hl=en)\]
 
 IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DCM</a>.
 
