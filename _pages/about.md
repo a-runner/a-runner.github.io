@@ -41,7 +41,7 @@ I am Jiawang Liu, a Ph.D. candidate at the College of Information Science and El
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2026</div><img src='images/ISCAS_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id="ISCAS_2026"><div class='paper-box-image'><div><div class="badge">ISCAS 2026</div><img src='images/ISCAS_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Training-Free Adaptation for Learned Image Compression from Visible to Thermal Domain]() [oral]
@@ -50,7 +50,7 @@ I am Jiawang Liu, a Ph.D. candidate at the College of Information Science and El
 
 \[[BibTeX]()\]
 
-IEEE ISCAS, 2026
+IEEE ISCAS, 2026 \| Relevant work has been adopted by <a href="#ISCAS_2026_DCM">DCM</a>.
 
 </div>
 </div>
@@ -121,7 +121,7 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 
 ### ✅ Adopted Proposals
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/Infrared_visualization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id="ISCAS_2026_DCM"><div class='paper-box-image'><div><div class="badge">DCM 2025</div><img src='images/Infrared_visualization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color: #224B8D;">EE3：DCM在二维可见光红外视频数据集上的压缩性能探究</span>
@@ -130,7 +130,8 @@ IEEE VCIP, 2023 \| Relevant work has been adopted by <a href="#VCIP_2023_DCM">DC
 
 DCM-I-0170, DCM第19次会议，2025年7月
 
-**Pre- and Post-processing Modules Adapted for Thermal Images** have been adopted.
+**Pre- and Post-processing Modules Adapted for Thermal Images** have been adopted. \| Relevant work has been accepted by <a href="#ISCAS_2026">ISCAS 2026</a>.
+
 
 [Project Page]()
 </div>
