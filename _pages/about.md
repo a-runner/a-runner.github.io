@@ -41,7 +41,7 @@ I am Jiawang Liu, a Ph.D. candidate at the College of Information Science and El
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2026</div><img src='images/overall.drawio.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2026</div><img src='images/ISCAS_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Training-Free Adaptation for Learned Image Compression from Visible to Thermal Domain]() [oral]
