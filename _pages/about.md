@@ -221,7 +221,7 @@ DCM-I-0077,  DCM第10次会议，2023年2月
 
 ### 📝 Other Selected Proposals
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCM 2023</div><img src='images/fcm_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCM CfP 2023</div><img src='images/fcm_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color: #224B8D;">[FCVCM] Feature Coding scheme for Video Coding for Machine from Zhejiang University</span>
